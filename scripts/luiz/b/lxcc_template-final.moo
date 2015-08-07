@@ -1,0 +1,14 @@
+LXDE-Control-Center=Centro de Controle LXDE
+LXDM Settings=Configurações do LXDM
+Configure Openbox=Configurar o Openbox
+Mouse&Keyboard=Teclado e mouse
+Set Wallpaper=Configurar o papel de parede
+Screensaver Settings=Configurações do protetor de tela
+Appearance=Aparência
+PCManFM Settings=Configurações do PCManFM
+PCManFM Super User Mode=Modo de superusuário do PCManFM
+Refresh Panel=Atualizar painel
+Install Software=Instalar software
+YaST Control Center=Centro de controle YaST
+Session Settings=Configurações da sessão
+Monitor Settings=Configurações do monitor
