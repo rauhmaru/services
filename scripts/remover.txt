@@ -1,3 +1,0 @@
-Procurando arquivos maiores que 30k
-/tmp/web_2015-01-final.png
-/tmp/web_2015-01-final-1.png
